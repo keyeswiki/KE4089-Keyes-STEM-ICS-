@@ -69,6 +69,8 @@ I2S总线由3个主要信号组成：
 | SCK        | GPIO14      |
 | WS         | GPIO12      |
 | DIN        | GPIO13      |
+
+
 ![](assets/6.png)
 ![](assets/5.png)
 
